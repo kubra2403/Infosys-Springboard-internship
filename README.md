@@ -1,2 +1,2 @@
 # Infosys-Springboard-internship
-Progress tracking for my Python Technology Stack track
+Progress tracking for my Python Technology Stack track.
