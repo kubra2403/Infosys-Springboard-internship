@@ -1,14 +1,25 @@
-# Infosys Springboard Virtual Internship 7.0
-## Domain: Python Technology Stack
+# ⚡ Infosys Springboard Virtual Internship 7.0
 
-This repository tracks my daily progress and coding exercises for the Infosys Springboard Internship.
+### Domain: Python Technology Stack
 
-### 📅 Current Progress:
-- [x] GitHub & Git Setup
-- [ ] Programming Fundamentals using Python - Part 1
-- [ ] Programming Fundamentals using Python - Part 2
+This repository tracks my daily progress, coding exercises, and logic building for the **Programming Fundamentals using Python - Part 1** course.
 
-### 🛠️ Tech Used:
-- Python 3
-- Visual Studio Code
-- Git & GitHub
+---
+
+## 📈 My Learning Journey
+
+| Module                   | Status | Key Logic Covered                           |
+| :----------------------- | :----: | :------------------------------------------ |
+| **01: Why Programming?** |   ✅   | Automation & Scenario Analysis              |
+| **02: Algorithms Intro** |   ✅   | Algorithm Characteristics (Precise, Finite) |
+| **03: Flight Math**      |   ✅   | Input-Process-Output (IPO) Models           |
+| **04: Decision Logic**   |   🟡   | if-elif-else & Selection Control            |
+
+---
+
+## 🛠️ My Workspace
+
+- **OS:** Windows 11
+- **Editor:** VS Code 1.9x
+- **Language:** Python 3.12+
+- **Version Control:** Git/GitHub
